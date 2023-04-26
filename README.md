@@ -24,6 +24,7 @@ WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 # Screenshot
+![image](https://user-images.githubusercontent.com/122223756/234698460-2c08b5a6-ee86-421c-9186-f97273101b24.png)
 
 # GitHub
 github.com/MaryVDa
