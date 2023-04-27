@@ -30,5 +30,8 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 # Video Demo
 [Untitled_ Apr 26, 2023 5_00 PM.webm](https://user-images.githubusercontent.com/122223756/234702571-e06da8e4-3ac5-49cc-9c85-af8bf9312a13.webm)
 
+# Example Logo
+![logo](https://user-images.githubusercontent.com/122223756/234727182-519b0a26-9097-43fe-b131-cb002598f3aa.svg)
+
 # GitHub
 github.com/MaryVDa
